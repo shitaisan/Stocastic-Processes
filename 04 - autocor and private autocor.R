@@ -64,26 +64,3 @@ sdPrCor <- rep((1/n)^(1/2), k)
 
 lines(sdCor, lty = 3, col = 'red')
 lines(sdPrCor, lty = 3, col = 'green')
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
