@@ -25,4 +25,3 @@ distrtau <- function(t){
 # моменты времени = index*h
 tau <- apply(x, 2, first)*h
 print(ks.test(tau, distrtau))
-
